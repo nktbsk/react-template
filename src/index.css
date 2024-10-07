@@ -30,3 +30,8 @@ ul,
 ol {
   list-style: none;
 }
+
+button {
+  display: block;
+  cursor: pointer;
+}
